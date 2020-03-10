@@ -5,3 +5,4 @@ https://www.digitalocean.com/community/tutorials/containerizing-a-node-js-applic
 
 $ npm install
 $ docker-compose up -d
+$ http://localhost/
